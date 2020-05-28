@@ -7,6 +7,6 @@ public class HelloEclipse {
 	 *                    * 
 	 **********************/
 	public static void main(String[] Args) {
-		System.out.println("歡迎使用Eclipse^__^");
+		System.out.println("歡迎使用Eclipse^___^");
 	}
 }
